@@ -20,7 +20,7 @@ O(n)
 /*
 Big O Notation
 ----------------
-Shoryly to analyse the performance of an algorithm
+Shortly to analyse the performance of an algorithm
 Finding better function for the same purpose and result 
 With Big 0 (based on the different of num of procs)
 Time and Space Complexity of an algorithm 
@@ -46,7 +46,7 @@ O(n.square) (quadratic complexity)
 O(1) → Constant Time (Fastest)
 O(log n) → Logarithmic Time (Very Efficient)
 O(n) → Linear Time (Grows Proportionally)
-O(n log n) → Log-Linear Time (Common in Sorting)
+O(n * log n) → Log-Linear Time (Common in Sorting)
 O(n²), O(2ⁿ), O(n!) → Slower, exponentially growing complexities
 
 Rule of Thumbs
