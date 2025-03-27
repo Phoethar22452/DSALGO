@@ -1,0 +1,50 @@
+What is algorithm?
+A process or set of steps to accomplish a certain task.
+
+Problem Solving
+---------------
+Understand the problem
+Explore concrete example
+Break it down
+Solve / Simplify
+Look back and refactor
+
+Understanding the problem
+-------------------------
+1- Can I restate the problem in my own words
+2- What are the inputs that go into the problem?
+3- What are the outputs that should come from the solution to the problem?
+4- Can the outputs determined from the outputs? In other words, do I have 
+   enough information to solve the problem?
+
+Example: write a function which take two numbers and return their sum
+
+Exploring concrete example
+--------------------------
+1- Start with simple example
+2- Progress to more complex example
+3- Explore example with empty inputs
+3- Explore example with invalid inputs
+
+Break it down
+----------------
+Break down into small solveable steps consists of comments or just psudo code
+Dont write out of the lines
+
+Solve / Simplify
+-----------------
+- Find the core difficulty in what you are trying to do
+- Temporary ignore that difficulty
+- Write a simplified solution
+- then incorporate that difficulty back in
+
+Look back & refactor
+--------------------
+can you check the result
+can you derive the result differently
+can you understand it at a glance
+can you use the result or method for some other problem
+can you improve the performance of the solution
+can you think of other ways to refactor
+how have other people solved this problem? 
+[different example of approaches for check string is alpha numberic  : alphabet count or ascii count or regex count, charCodeAt]
