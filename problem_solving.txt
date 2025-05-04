@@ -48,3 +48,9 @@ can you improve the performance of the solution
 can you think of other ways to refactor
 how have other people solved this problem? 
 [different example of approaches for check string is alpha numberic  : alphabet count or ascii count or regex count, charCodeAt]
+
+
+Design Patterns
+----------------
+1- Frequency Counter
+

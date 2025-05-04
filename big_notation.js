@@ -56,6 +56,10 @@ There rules of thumbs are consequences of the definition of Big O notation.
 
 Space Complexity :
 ------------------
+Space Complexity of an algorithm is total space taken by the algorithm with respect to the input size. Space complexity includes both Auxiliary space and space used by input.
+
+Space complexity is a measure of the amount of working storage an algorithm needs. That means how much memory, in the worst case, is needed at any point in the algorithm. As with time complexity, we're mostly concerned with how the space needs grow, in big-Oh terms, as the size N of the input problem grows.
+
 Rule of Thumbs
 --------------
 (the amount of space it takes to solve a problem)
@@ -64,6 +68,11 @@ There rules of thumbs are consequences of the definition of Big O notation.
 Most primitives (booleans, numbers, undefined, null) are constant space
 String require O(n) space (where n is the string length)
 Reference types are generally O(n), where n is the length (for arrays) or the number of keys (for objects)
+
+Three main reasons of an algo which mainly affect the space complexity
+- variables and constants
+- inputs
+- excution
 
 The Logarithm Complexity
 ------------------------
