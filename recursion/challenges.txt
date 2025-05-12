@@ -1,0 +1,16 @@
+1. power
+2. factorial
+3. product of array
+4. recursive range
+5. fabonacci
+
+Bonus Recursive Problems
+1. reverse
+2. is palindrome
+3. some recursive
+4. flatten
+5. capatilize first
+6. nested even sum
+7. capatilize words
+8. stringify numbers
+9. collect strings

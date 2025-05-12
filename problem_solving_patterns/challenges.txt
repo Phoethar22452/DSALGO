@@ -1,0 +1,6 @@
+1. duplicates [frequency counter, multiple pointers]
+2. average pair
+3. is subsequence
+4. max sub array sum
+5. min sub array len
+6. find longest substring
